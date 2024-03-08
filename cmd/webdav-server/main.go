@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/emersion/go-webdav"
+	"github.com/DeepDiver1975/go-webdav"
 )
 
 func main() {

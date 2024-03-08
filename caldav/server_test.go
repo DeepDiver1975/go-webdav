@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/xml"
 	"fmt"
-	"github.com/emersion/go-webdav/internal"
+	"github.com/DeepDiver1975/go-webdav/internal"
 	"github.com/stretchr/testify/assert"
 	"io"
 	"io/ioutil"

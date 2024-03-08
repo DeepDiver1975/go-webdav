@@ -12,9 +12,9 @@ import (
 	"strings"
 	"time"
 
+	"github.com/DeepDiver1975/go-webdav"
+	"github.com/DeepDiver1975/go-webdav/internal"
 	"github.com/emersion/go-ical"
-	"github.com/emersion/go-webdav"
-	"github.com/emersion/go-webdav/internal"
 )
 
 // TODO if nothing more Caldav-specific needs to be added this should be merged with carddav.PutAddressObjectOptions
