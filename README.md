@@ -1,7 +1,8 @@
 # go-webdav
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/emersion/go-webdav.svg)](https://pkg.go.dev/github.com/emersion/go-webdav)
-[![builds.sr.ht status](https://builds.sr.ht/~emersion/go-webdav/commits/master.svg)](https://builds.sr.ht/~emersion/go-webdav/commits/master?)
+[![Go Reference](https://pkg.go.dev/badge/github.com/DeepDiver1975/go-webdav.svg)](https://pkg.go.dev/github.com/DeepDiver1975/go-webdav)
+[![codecov](https://codecov.io/gh/DeepDiver1975/go-webdav/graph/badge.svg?token=KTDH6WCDRF)](https://codecov.io/gh/DeepDiver1975/go-webdav)
+![Go workflow](https://github.com/DeepDiver1975/go-webdav/actions/workflows/go.yml/badge.svg)
 
 A Go library for [WebDAV], [CalDAV] and [CardDAV].
 
